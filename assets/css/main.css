@@ -83,7 +83,7 @@ body {
 
 /* slider */
 .slider .owl-carousel .item {
-    background-color: var(--mainColor);
+    background-color: red;
     /* height: 100px; */
     /* width: 100px; */
     margin-top: 10px;
